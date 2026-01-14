@@ -29,6 +29,8 @@ Reading and Practice Week Work Log（2026.1.12-2026.1.16）
 
 | 1.14 | 在小范围数据集上验证训练集的图片进行数据增强对模型训练的影响 |
 
+小数据集上验证：![验证结果](assets/with_sharpen.png "结果")
+
 | 1.15 | 进行短时间的（低轮次的训练）并保存checkpoint文件，将短时的训练过程的参数制表分析 |
 
 | 1.16 | 第二天在checkpoint处恢复训练 |
